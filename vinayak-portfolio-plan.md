@@ -84,13 +84,11 @@ This is the **centerpiece** of the site. Show 4 projects as cards.
 ### 5. `/` → Experience / Timeline Section
 A minimal vertical timeline:
 
-```
-2024–25   CTO @ Outfevibe          AI Fashion SaaS, built full codebase
-2024–25   Freelance @ Vicinix      Full-stack web projects for clients
-2025      Symax Dashboard           Delivered for Symax Group via Vicinix
-2025      VIC Member                Vidya University Innovation Centre, Meerut
-Ongoing   Marketnera                Building India's hyperlocal commerce platform
-```
+2026–Present Founder @ Marketnera      Hyperlocal commerce for Tier 2/3 cities
+2026         Symax Dashboard         Delivered via Vicinix
+2026         Founding Engineer (CTO) @ Outfevibe AI Fashion SaaS
+2025–Present Freelance @ Vicinix      Full-stack web projects for clients
+2025–Present Member @ VIC             Vidya Innovation Centre, Meerut
 
 ---
 
@@ -108,7 +106,7 @@ Visual grid or tag cloud:
 ### 7. Contact Section
 - Heading: *"Let's Build Something"*
 - Email: vinayakjain2110@gmail.com (click to copy or mailto)
-- LinkedIn: link with icon
+- LinkedIn: https://www.linkedin.com/in/vinayak-jain-1786b9357/
 - GitHub: VinayakJain-codes
 - Optional: simple contact form (EmailJS or Resend — no backend needed)
 - Vicinix Razorpay link (for quick payment — optional)

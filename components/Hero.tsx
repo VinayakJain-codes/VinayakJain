@@ -44,7 +44,7 @@ export default function Hero() {
             style={{ y: taglineY, opacity }}
             className="text-xl md:text-2xl text-foreground/70 font-mono mb-10 max-w-2xl"
           >
-            Builder. Developer. Creator.
+            Full-Stack Developer · Startup Builder · Creator
           </motion.p>
           
           <motion.div 

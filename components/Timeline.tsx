@@ -5,40 +5,40 @@ import SectionHeading from "./SectionHeading";
 
 const timeline = [
   {
-    period: "Ongoing",
-    role: "Founder & Builder",
+    period: "2026 – Present",
+    role: "Founder",
     org: "Marketnera",
     description: "Building India's hyperlocal commerce platform for Tier 2/3 cities",
     accent: "#f97316",
     active: true,
   },
   {
-    period: "2025",
+    period: "2026",
     role: "Delivered",
     org: "Symax Governance Dashboard",
-    description: "Full-stack governance dashboard for Symax Group (UAE/UK/EU) via Vicinix",
+    description: "Full-stack governance system for UAE/UK/EU entity compliance",
     accent: "#13ec5b",
   },
   {
-    period: "2025",
-    role: "VIC Member",
-    org: "Vidya Innovation Centre",
-    description: "Vidya University Innovation Centre, Meerut",
-    accent: "#3b82f6",
-  },
-  {
-    period: "2024–25",
-    role: "CTO",
+    period: "2026",
+    role: "Founding Engineer (CTO)",
     org: "Outfevibe",
-    description: "AI Fashion SaaS — built the full initial codebase",
+    description: "AI Fashion SaaS — built the full initial codebase solo",
     accent: "#a855f7",
   },
   {
-    period: "2024–25",
+    period: "2025 – Present",
     role: "Freelance Developer",
     org: "Vicinix",
-    description: "Full-stack web projects for clients across industries",
+    description: "Handling full-stack web projects from requirements to deployment",
     accent: "#f97316",
+  },
+  {
+    period: "2025 – Present",
+    role: "Member",
+    org: "Vidya Innovation Centre (VIC)",
+    description: "College-level tech event anchoring and podcast content creation",
+    accent: "#3b82f6",
   },
 ];
 

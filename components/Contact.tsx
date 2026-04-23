@@ -26,7 +26,7 @@ function GithubIcon({ size = 16, className }: { size?: number; className?: strin
 const socials = [
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/vinayakjain",
+    href: "https://www.linkedin.com/in/vinayak-jain-1786b9357/",
     icon: LinkedinIcon,
     color: "#0a66c2",
   },
@@ -42,9 +42,9 @@ export default function Contact() {
   const [copied, setCopied] = useState(false);
 
   const mailtoHref = `mailto:${email}?subject=${encodeURIComponent(
-    "Project Inquiry via Portfolio"
+    "Project Inquiry"
   )}&body=${encodeURIComponent(
-    `Hi Vinayak,\n\nI came across your portfolio and I'm interested in hiring you for a project.\n\n--- Project Details ---\n\nProject Type: [e.g. Web App / Dashboard / Landing Page]\nBudget Range: [Your budget]\nTimeline: [When do you need it by]\nDescription: [Briefly describe what you need]\n\n--- About You ---\n\nName: \nCompany/Brand: \nWebsite (if any): \n\nLooking forward to hearing from you.\n\nRegards,\n[Your Name]`
+    `Hi Vinayak,\n\nI'm interested in working with you on a project.\n\nProject Details:\n- Type: \n- Budget: \n- Timeline: \n\nLooking forward to hearing from you!`
   )}`;
 
   const handleCopy = async () => {
@@ -82,15 +82,15 @@ export default function Contact() {
           <div className="absolute inset-0 bg-gradient-to-br from-accent/[0.03] to-transparent rounded-sm pointer-events-none" />
 
           <div className="relative flex items-center justify-between gap-4">
-            <div className="flex items-center gap-3 min-w-0">
-              <Mail size={18} className="text-accent shrink-0" />
-              <a
-                href={mailtoHref}
-                className="text-foreground/80 hover:text-accent font-mono text-sm transition-colors truncate"
-              >
+            <a
+              href={mailtoHref}
+              className="flex items-center gap-3 min-w-0 group/mail"
+            >
+              <Mail size={18} className="text-accent shrink-0 group-hover/mail:scale-110 transition-transform" />
+              <span className="text-foreground/80 group-hover/mail:text-accent font-mono text-sm transition-colors truncate">
                 {email}
-              </a>
-            </div>
+              </span>
+            </a>
             <button
               onClick={handleCopy}
               className="shrink-0 p-2 rounded-sm hover:bg-white/5 text-foreground/40 hover:text-foreground transition-all"
