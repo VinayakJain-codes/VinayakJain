@@ -105,7 +105,7 @@ Visual grid or tag cloud:
 
 ### 7. Contact Section
 - Heading: *"Let's Build Something"*
-- Email: vinayakjain2110@gmail.com (click to copy or mailto)
+- Email: Vinayak@vicinix.co.in (click to copy or mailto)
 - LinkedIn: https://www.linkedin.com/in/vinayak-jain-1786b9357/
 - GitHub: VinayakJain-codes
 - Optional: simple contact form (EmailJS or Resend — no backend needed)

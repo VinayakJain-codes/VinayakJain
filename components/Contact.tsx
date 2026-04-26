@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { Mail, Copy, Check, ArrowUpRight } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 
-const email = "vinayakjain2110@gmail.com";
+const email = "Vinayak@vicinix.co.in";
 
 function LinkedinIcon({ size = 16, className }: { size?: number; className?: string }) {
   return (
