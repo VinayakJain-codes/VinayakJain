@@ -21,7 +21,7 @@ export default function Navbar() {
       {/* Glassmorphism backdrop */}
       <div className="absolute inset-0 bg-background/60 backdrop-blur-xl border-b border-white/5" />
 
-      <div className="relative container mx-auto px-6 lg:px-20">
+      <div className="relative container max-w-7xl mx-auto px-6 lg:px-20">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="font-bold text-lg text-foreground tracking-tight">

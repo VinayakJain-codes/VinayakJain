@@ -25,6 +25,18 @@ Each phase has a clear goal and maps to specific requirements.
 - **Goal**: Add cinematic scroll-driven parallax, staggered card reveals, site-wide section fade-ups, animated text reveals, and a mailto template pre-filled with a structured hiring inquiry.
 - **Requirements**: REQ-8, REQ-9
 
+### Phase 6: Three.js 3D Hero Animation [x] (2026-04-26)
+- **Goal**: Replace the empty right-side canvas area in the Hero section with a stunning interactive Three.js 3D scene — a floating, morphing geometric sculpture (icosahedron/torus knot hybrid) with real-time shader distortion, mouse-reactive rotation, scroll-driven scale, and a dynamic point-light bloom effect that complements the orange accent palette.
+- **Requirements**: REQ-10
+
+### Phase 7: Solar System Skills Hero Animation [x] (2026-04-26)
+- **Goal**: Replace the Phase 6 geometric 3D animation with a "Solar System / Galaxy" Three.js scene. The sun/center will be the core, and orbiting planets will represent top skills (e.g., React, Next.js, Node.js). Must include orbital paths, glowing starfield, and interactive hover/click behaviors.
+- **Requirements**: REQ-11
+
+### Phase 8: Scroll Animation Storytelling
+- **Goal**: Add a cinematic scroll-driven storytelling section between Hero and About that narrates Vinayak's developer journey as a full-screen, scroll-pinned experience with chapter-style text reveals, progress indicator, parallax layers, and smooth scroll-linked transforms using Framer Motion's `useScroll` + `useTransform`.
+- **Requirements**: REQ-12
+
 ## Future Milestones
 - Phase 2 additions (Notes, Testimonials, Dark/Light toggle)
 
