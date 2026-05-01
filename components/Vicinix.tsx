@@ -61,8 +61,8 @@ export default function Vicinix() {
                 Past Client Work
               </p>
               <p className="text-foreground/70 text-sm leading-relaxed max-w-lg">
-                Delivered the <span className="text-foreground font-medium">Symax Governance Dashboard</span> for
-                Symax Group — a multi-entity compliance system spanning UAE, UK, and EU jurisdictions with 13 data
+                Delivered the <span className="text-foreground font-medium">Enterprise Governance Dashboard</span> for
+                Enterprise Group — a multi-entity compliance system spanning UAE, UK, and EU jurisdictions with 13 data
                 sheets, audit logging, and RBAC.
               </p>
             </div>

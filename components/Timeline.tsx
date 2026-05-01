@@ -15,7 +15,7 @@ const timeline = [
   {
     period: "2026",
     role: "Delivered",
-    org: "Symax Governance Dashboard",
+    org: "Enterprise Governance Dashboard",
     description: "Full-stack governance system for UAE/UK/EU entity compliance",
     accent: "#13ec5b",
   },

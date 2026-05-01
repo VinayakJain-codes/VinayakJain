@@ -28,8 +28,8 @@ export const projects: Project[] = [
     linkLabel: "Coming Soon",
   },
   {
-    id: "symax",
-    title: "Symax Governance Dashboard",
+    id: "enterprise",
+    title: "Enterprise Governance Dashboard",
     tag: "Client Project · Corporate Governance",
     description:
       "Replaced a 12-sheet Excel workbook with a full-stack web system covering filing status, document control, and approval workflows across 3 jurisdictions (UAE/UK/EU).",
@@ -50,8 +50,8 @@ export const projects: Project[] = [
     statusLabel: "Past Role (2026)",
     statusColor: "#3b82f6",
     note: "Sole engineer on initial build — no longer with company",
-    link: "https://outfevibe.com",
-    linkLabel: "outfevibe.com",
+    link: "https://outfevibe-mvp-pi.vercel.app/",
+    linkLabel: "outfevibe.vercel.app",
   },
   {
     id: "presence-guard",

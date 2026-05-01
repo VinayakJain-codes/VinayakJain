@@ -54,7 +54,7 @@ export const resumeData: ResumeData = {
       period: "2025 – Present",
       location: "Remote",
       bullets: [
-        "Sole developer on Symax Governance Dashboard (delivered 2026) — replaced a 12-sheet Excel workbook with a Supabase-backed system covering 13 compliance data sheets.",
+        "Sole developer on Enterprise Governance Dashboard (delivered 2026) — replaced a 12-sheet Excel workbook with a Supabase-backed system covering 13 compliance data sheets.",
         "Wrote Postgres triggers for field-level audit logging on every mutation; implemented soft deletes to preserve full history.",
         "Built RBAC from scratch: Super Admin, Admin, and Viewer roles enforced at both API middleware and RLS level.",
         "Managed full project lifecycle independently: requirements, development, security audit, and handover.",

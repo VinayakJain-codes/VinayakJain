@@ -49,9 +49,9 @@ This is the **centerpiece** of the site. Show 4 projects as cards.
 - **Status badge**: 🟡 In Development
 - **Links**: Website / Coming Soon
 
-#### Card 2 — Symax Governance Dashboard
+#### Card 2 — Enterprise Governance Dashboard
 - **Tag**: Client Project · Corporate Governance
-- **Description**: Full-stack governance dashboard for Symax Group (UAE/UK/EU) with audit logging, RBAC, Excel-to-Supabase migration, and 13 data sheets
+- **Description**: Full-stack governance dashboard for Enterprise Group (UAE/UK/EU) with audit logging, RBAC, Excel-to-Supabase migration, and 13 data sheets
 - **Stack**: Next.js 14 · Supabase · Recharts · Tailwind
 - **Status badge**: ✅ Delivered
 - **Built by**: Vicinix
@@ -62,7 +62,7 @@ This is the **centerpiece** of the site. Show 4 projects as cards.
 - **Stack**: Next.js · Supabase · Persona Engine
 - **Status badge**: 🔵 Past Role
 - **Note**: *"CTO & initial codebase builder — no longer with company"*
-- **Link**: outfevibe.com
+- **Link**: outfevibe-mvp-pi.vercel.app/
 
 #### Card 4 — Presence Guard
 - **Tag**: Open Source · Python App
@@ -76,7 +76,7 @@ This is the **centerpiece** of the site. Show 4 projects as cards.
 ### 4. Freelance / Vicinix Section (scroll)
 - Short section introducing **Vicinix** — your freelance dev brand
 - Services offered: Web Apps, Dashboards, Full-Stack Builds, Startup MVPs
-- Past client work callout (Symax)
+- Past client work callout (Enterprise)
 - CTA: *"Have a project in mind? Let's talk."* → links to contact
 
 ---
@@ -85,7 +85,7 @@ This is the **centerpiece** of the site. Show 4 projects as cards.
 A minimal vertical timeline:
 
 2026–Present Founder @ Marketnera      Hyperlocal commerce for Tier 2/3 cities
-2026         Symax Dashboard         Delivered via Vicinix
+2026         Enterprise Dashboard         Delivered via Vicinix
 2026         Founding Engineer (CTO) @ Outfevibe AI Fashion SaaS
 2025–Present Freelance @ Vicinix      Full-stack web projects for clients
 2025–Present Member @ VIC             Vidya Innovation Centre, Meerut
@@ -187,7 +187,7 @@ vinayak-portfolio/
 
 - **Blog/Notes** — Dev logs, build journals (great for SEO + personal brand)
 - **Marketnera dedicated page** — Full pitch-style landing within portfolio
-- **Testimonial from Symax** — If client permits, a short quote
+- **Testimonial from Enterprise Client** — If client permits, a short quote
 - **Resume download button** — PDF export
 - **Dark/Light toggle** — Accessible preference
 
